@@ -15,7 +15,7 @@ function LoginModal() {
   return (
     <>
       <Button variant="outline-dark" onClick={handleShow}>
-        LOGIN BUTONGGGGGGggg
+        LOGINtest2
       </Button> &nbsp;&nbsp;
 
       <Modal
