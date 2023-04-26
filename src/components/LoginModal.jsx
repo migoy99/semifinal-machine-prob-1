@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Modal.css'
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
-import Form from 'react-bootstrap/Form';
+import Form from 'react-bootstrap/Form'; 
 
 function LoginModal() {
   const [show, setShow] = useState(false);
@@ -15,7 +15,7 @@ function LoginModal() {
   return (
     <>
       <Button variant="outline-dark" onClick={handleShow}>
-        LOGIN   
+        LOGIN BUTONGGGGGGggg
       </Button> &nbsp;&nbsp;
 
       <Modal
