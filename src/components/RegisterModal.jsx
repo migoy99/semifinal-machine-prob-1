@@ -12,7 +12,7 @@ function RegisterModal() {
   return (
     <>
       <Button variant="outline-dark" onClick={handleShow}>
-        REGISTERtest2
+        REGISTER
       </Button>
 
       <Modal
